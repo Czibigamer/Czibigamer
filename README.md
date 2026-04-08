@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @Czibigamer a beginner IT technician 
 - 👀 I’m interested in programming, networking, cybersecurity
 - 🌱 I’m currently learning: python, html, css, c
-- 💞️ I’m looking to collaborate on writing tools and basic apps
+- 💞️ I’m looking to collaborate on tools and basic apps
 
 <!---
 Czibigamer/Czibigamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
