@@ -1,5 +1,7 @@
 <h1 align="center"><b><i>About me</i></b></h1>
 
+![](https://komarev.com/ghpvc/?username=czibigamer)
+
 - 👋 Hi, I’m @Czibigamer a beginner IT technician 
 - 👀 I’m interested in programming, networking, cybersecurity
 - 🌱 I’m currently learning: python, html, css, c
