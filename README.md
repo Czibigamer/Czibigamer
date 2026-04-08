@@ -1,4 +1,4 @@
-<h1><b><i>About me</i></b></h1>
+# ***About me***</b>
 - 👋 Hi, I’m @Czibigamer a beginner IT technician 
 - 👀 I’m interested in programming, networking, cybersecurity
 - 🌱 I’m currently learning: python, html, css, c
