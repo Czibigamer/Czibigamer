@@ -1,4 +1,4 @@
-# ***About me***</b>
+# ***About me***
 - 👋 Hi, I’m @Czibigamer a beginner IT technician 
 - 👀 I’m interested in programming, networking, cybersecurity
 - 🌱 I’m currently learning: python, html, css, c
